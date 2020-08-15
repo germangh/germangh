@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+
+I am currently working on building a smart hotel booking marketplace @[FindHotel]. Check our [blog] to find out more, and consider [joining us]! 
+
+Before joining FindHotel I worked as a researcher at [Tampere University](https://www.tuni.fi/en/about-us/tampere-university), in Finland, and at the [Netherlands Institute for Neuroscience](https://nin.nl/). If you are interested on my past research you can take a look at my [ResearchGate] profile, or at my [doctoral thesis].
+
+If you want to contact me, drop me an [email], or reach out in [Linkedin](https://www.linkedin.com/in/germangh)!
+
+[FindHotel]: https://www.findhotel.net/
+[joining us]: https://careers.findhotel.net/
+[blog]: https://blog.findhotel.net/
+[ResearchGate]: https://www.researchgate.net/profile/German_Gomez-Herrero
+[doctoral thesis]: https://trepo.tuni.fi//handle/10024/115067
+[email]: mailto:german@findhotel.net
+
 <!--
 **germangh/germangh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
