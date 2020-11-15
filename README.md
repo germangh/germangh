@@ -16,7 +16,7 @@ Before joining FindHotel I worked as a researcher at [Tampere University](https:
 [<img align="left" alt="germangh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="germangh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="germangh | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/gmail.svg" />][mail]
-[<img align="left" alt="germangh | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/kebase.svg" />][keybase]
+[<img align="left" alt="germangh | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/keybase.svg" />][keybase]
 [<img align="left" alt="germangh | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/researchgate.svg" />][researchgate]
 [<img align="left" alt="germangh | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/googlescholar.svg" />][googlescholar]
 
