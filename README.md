@@ -1,13 +1,13 @@
 ### Hi there, I'm Germán 👋
 
 
-I am currently working on building a smart hotel booking marketplace @[FindHotel]. Check our [blog] to find out more, and consider [joining us]! 
+I am currently working on building a smart hotel booking marketplace @[Vio.com]. Check our [blog] to find out more, and consider [joining us]! 
 
-Before joining FindHotel I worked as a researcher at [Tampere University](https://www.tuni.fi/en/about-us/tampere-university), in Tampere, Finland, and at the [Netherlands Institute for Neuroscience](https://nin.nl/), in Amsterdam, the Netherlands. If you are interested in my past research you can take a look at my [Doctoral Thesis].
+Before joining Vio.com I worked as a researcher at [Tampere University](https://www.tuni.fi/en/about-us/tampere-university), in Tampere, Finland, and at the [Netherlands Institute for Neuroscience](https://nin.nl/), in Amsterdam, the Netherlands. If you are interested in my past research you can take a look at my [Doctoral Thesis].
 
-[FindHotel]: https://www.findhotel.net/
-[joining us]: https://careers.findhotel.net/
-[blog]: https://blog.findhotel.net/
+[FindHotel]: https://www.vio.com/
+[joining us]: https://www.vio.com/careers
+[blog]: https://medium.com/@viodotcom1
 [Doctoral Thesis]: https://trepo.tuni.fi//handle/10024/115067
 
 
