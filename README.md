@@ -5,7 +5,7 @@ I am currently working on building a smart hotel booking marketplace @[Vio.com].
 
 Before joining Vio.com I worked as a researcher at [Tampere University](https://www.tuni.fi/en/about-us/tampere-university), in Tampere, Finland, and at the [Netherlands Institute for Neuroscience](https://nin.nl/), in Amsterdam, the Netherlands. If you are interested in my past research you can take a look at my [Doctoral Thesis].
 
-[FindHotel]: https://www.vio.com/
+[Vio.com]: https://www.vio.com/
 [joining us]: https://www.vio.com/careers
 [blog]: https://medium.com/@viodotcom1
 [Doctoral Thesis]: https://trepo.tuni.fi//handle/10024/115067
